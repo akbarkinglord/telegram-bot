@@ -19,6 +19,8 @@ import org.telegram.telegrambots.updatesreceivers.DefaultBotSession;
 import java.lang.reflect.Type;
 import java.util.List;
 
+// github ornatildi
+
 public class Main extends TelegramLongPollingBot {
 
     public static void main(String[] args) {
